@@ -4,7 +4,7 @@ import java.util.*;
 class Main{
     public static void main(String[] args){
         // Run test, it will need you to place the test_data folder that TA post in current folder
-        TestCase tc = new TestCase("WorstCase");      // Accept Sample or WorstCase as parameter, will generate different result
+        TestCase tc = new TestCase("Sample");      // Accept Sample or WorstCase as parameter, will generate different result
         tc.process();
 
         // Or run it manually
